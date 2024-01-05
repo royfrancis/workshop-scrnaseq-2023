@@ -1,5 +1,5 @@
 title: "Single_cell RNA sequencing analysis course"
-baseurl: /workshop-scRNAseq
+baseurl: /workshop-scrnaseq-2022
 
 # where things are
 layouts_dir: ./workshop-common/layouts
